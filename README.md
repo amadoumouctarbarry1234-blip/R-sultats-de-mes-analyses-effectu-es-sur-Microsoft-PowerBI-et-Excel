@@ -45,3 +45,29 @@ Outils :
 
 Power BI, graphiques en barres, courbes et analyse comparative
 
+
+
+
+Projet 3 - Annual Sales Analysis (Excel)
+
+<img width="1382" height="744" alt="2025-11-08 (3)" src="https://github.com/user-attachments/assets/c7849b15-605f-42a5-8b49-aafb9c5b2b2e" />
+
+Outil :
+Microsoft Excel
+
+Objectif : 
+Etudier les performances commerciales annuelles par équipe, trimestre, mois et catégorie de produits.
+
+Interprétation : Le tableau de bord permet de comparer les résultats des équipes, de repérer les variations entre trimestres et d'examiner la contribution des catégories de produits.
+
+
+Projet 3 — Sales Performance Dashboard (Excel)
+
+Outil :
+Microsoft Excel
+
+Objectif : 
+Analyser les ventes de produits selon leur statut, leur catégorie, le mois et la région.
+
+Interprétation : 
+Les indicateurs et graphiques facilitent le suivi des ventes réussies, en cours et annulées, ainsi que la comparaison des catégories de produits et des régions.
