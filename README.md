@@ -72,3 +72,15 @@ Analyser les ventes de produits selon leur statut, leur catégorie, le mois et l
 
 Interprétation : 
 Les indicateurs et graphiques facilitent le suivi des ventes réussies, en cours et annulées, ainsi que la comparaison des catégories de produits et des régions.
+
+Projet 5 — Product Sales & Trend Analysis (Power BI)
+
+<img width="1366" height="768" alt="Capture d’écran (27)" src="https://github.com/user-attachments/assets/c7265df7-1725-465e-a80f-fd4fbcf76c4c" />
+
+Outil : 
+Microsoft Power BI
+
+Objectif : Analyser les commandes par jour, la taille des produits, les références et les catégories.
+
+Interprétation :
+Les graphiques permettent d'identifier les variations journalières, de comparer les produits et d'étudier les relations entre les totaux de commandes et les prix des produits.
