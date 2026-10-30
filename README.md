@@ -61,7 +61,8 @@ Etudier les performances commerciales annuelles par équipe, trimestre, mois et 
 Interprétation : Le tableau de bord permet de comparer les résultats des équipes, de repérer les variations entre trimestres et d'examiner la contribution des catégories de produits.
 
 
-Projet 3 — Sales Performance Dashboard (Excel)
+Projet 4-Sales Performance Dashboard (Excel)
+<img width="1258" height="768" alt="Capture d’écran (6)" src="https://github.com/user-attachments/assets/b3da617d-22f1-446f-98d6-04018fb279b2" />
 
 Outil :
 Microsoft Excel
